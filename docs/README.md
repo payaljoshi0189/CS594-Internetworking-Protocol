@@ -1,4 +1,4 @@
-# CS594-Internet Relay Chat
+# About
 This project demonstrates the use of a multi-client IRC chat application
 
 The server and the client have been written in [Python3](https://docs.python.org/3/). The previous versions of python
