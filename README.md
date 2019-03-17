@@ -4,7 +4,7 @@ This project demonstrates the use of a multi-client IRC chat application
 The server and the client have been written in [Python3](https://docs.python.org/3/). The previous versions of python
     are not supported.
 
-We have references the module [Interprocess Communication and Networking](https://docs.python.org/3/library/ipc.html)
+We have referenced the module [Interprocess Communication and Networking](https://docs.python.org/3/library/ipc.html)
     for allowing us to enable a communication among clients 
 
 We have tried to follow the best practices for python projects[Python best practices](http://docs.python-guide.org/en/latest/writing/structure/)
