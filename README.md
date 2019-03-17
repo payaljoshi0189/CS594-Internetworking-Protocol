@@ -12,7 +12,7 @@ We have tried to follow the best practices for python projects[Python best pract
 In regards to following best practices we took an approach to make use of markdown files to document some of our work
 
 # Authors:
-- [Payal Joshi](pjoshi@pdx.edu)
+- [Payal Joshi](https://github.com/payaljoshi0189)
 
 - [Geetam Pathak]()
 
