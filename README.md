@@ -84,6 +84,7 @@ Ans: Currently, we have the following features that are supported
 You can find more details in `RFC` document provided under the `/docs` folder
 
 #References:
+
 [1]. https://en.wikipedia.org/wiki/Internet_Relay_Chat
 
 [2]. http://docs.python-guide.org/en/latest/writing/structure/
